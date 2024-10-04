@@ -1,1 +1,1 @@
-Howdy programmers Readme code + learnmecode = basicmecode
+Howdy programmers Readme code + learnmecode = basicyourcode
