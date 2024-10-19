@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 
@@ -61,8 +59,6 @@ int main()
 	cout << "Price of the milk (Php): " << milkCostPHP << endl;
 	cout << "\n";
 	int totalCostPHP = 	sugarCostPHP + riceCostPHP + sardinesCostPHP + coffeeCostPHP + milkCostPHP;
-    cout << "Total amount to be paid in PHP: " << totalCostPHP;
+        cout << "Total amount to be paid in PHP: " << totalCostPHP;
 	return 0;
 }
-
->>>>>>> e8e0ba3d6938e25ce4db825cb2bc812ecc563359
